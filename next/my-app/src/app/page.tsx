@@ -28,7 +28,7 @@ function App(){
           <Link href="./Pizza">Pizza shop</Link>
         </h1>
         <h1>
-          <Link href="./BBQ">BBQ shop</Link>
+          <Link href="./BBQ">BBQ shop spice</Link>
         </h1>
   </>
   
